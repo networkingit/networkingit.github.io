@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://networkingit.github.io
+title: networkingit
+paginate: 10
