@@ -2,5 +2,5 @@ excerpt_separator: ""
 pygments: true
 markdown: kramdown
 url: http://networkingit.github.io
-title: networkingit
+title: IMparting networking knowledge in bits and bytes
 paginate: 10
